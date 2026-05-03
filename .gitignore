@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build outputs
+.docusaurus/
+build/
+build-normal/
+dist/
+*.tgz
+
+# Environment
+.env
+.env.local
+.env.production
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# AI Context (local only)
+.ai-context/
+
+# Claude Code local config
+.claude/
+.bob/
