@@ -27,6 +27,11 @@ const sidebars: SidebarsConfig = {
           id: "D1.business-requirements/business-requirement-document",
           label: "ビジネス要件定義書",
         },
+        {
+          type: "doc",
+          id: "D1.business-requirements/actor-catalog",
+          label: "アクターカタログ",
+        },
       ],
     },
   ],
